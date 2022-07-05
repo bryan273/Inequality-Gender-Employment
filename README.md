@@ -12,12 +12,14 @@ The expected benefits of the project:
 * Increase productivity and work skills needed in today's industry and eliminating the patriarchal view that women are better off working in the informal sector.
 * Help women in finding jobs from their skills through recommendation system
 
-## Product
-The products of this project are:
+## Outcome
+The Outcome of this project are:
 * Interactive dashboard, which is expected to help society to analyze and find inequality employment factors to overcome job equality. 
 * Recommendation system, to help women find jobs that match their qualifications and skills. 
 
-## Tech & Data Source
+## Tech & Data
+Technologies :
+
 * Google Data Studio. A software in making data visualizations that can be viewed interactively.
 * Python. a high-level programming language that supported by the availability of many open source libraries that help in data processing, analysis, recommendation systems, and visualization. Libraries that the writers used:
   * Pandas
@@ -26,3 +28,19 @@ The products of this project are:
   * Textblob
   * NLTK
   * Scikit-learn 
+
+Data :
+Data for the country of Indonesia from year 2002-2018 that were obtained from credible institutions:
+* Humanitarian Data Exchange (Gender Indicator Data): contains comparisons of specific factors for men and women (including
+education, employment, health, etc.) (https://data.humdata.org/dataset/world-bank-gender-indicators-for-indonesia#)
+* World Bank (Gender Statistics Data): complementary data to gender indicator
+data (https://databank.worldbank.org/source/gender-statistics#)
+* Kaggle (Google Job Skills Data): the qualifications needed to apply for a job (https://www.kaggle.com/code/rayjohnsoncomedy/job-skills/data)
+
+## Product : Dashboard & Recommendation System
+
+<img src="https://user-images.githubusercontent.com/88226713/177361354-e8e6ed98-21ed-4692-94b4-bcf1c2bddc46.jpg" width="700">
+
+Interactive dashboard is available in : https://ristek.link/InequalityGenderEmployment
+
+Interactive recommendation system is available in : https://ristek.link/RecommendationSystem
