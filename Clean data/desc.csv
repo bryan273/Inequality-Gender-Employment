@@ -1,0 +1,276 @@
+,code,name
+0,IC.FRM.FEMM.ZS,Firms with female top manager (% of firms)
+1,IC.FRM.FEMO.ZS,Firms with female participation in ownership (% of firms)
+2,SE.ADT.1524.LT.FE.ZS,"Literacy rate, youth female (% of females ages 15-24)"
+3,SE.ADT.1524.LT.FM.ZS,"Literacy rate, youth (ages 15-24), gender parity index (GPI)"
+4,SE.ADT.1524.LT.MA.ZS,"Literacy rate, youth male (% of males ages 15-24)"
+5,SE.ADT.LITR.FE.ZS,"Literacy rate, adult female (% of females ages 15 and above)"
+6,SE.ADT.LITR.MA.ZS,"Literacy rate, adult male (% of males ages 15 and above)"
+7,SE.ENR.PRIM.FM.ZS,"School enrollment, primary (gross), gender parity index (GPI)"
+8,SE.ENR.PRSC.FM.ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+9,SE.ENR.SECO.FM.ZS,"School enrollment, secondary (gross), gender parity index (GPI)"
+10,SE.ENR.TERT.FM.ZS,"School enrollment, tertiary (gross), gender parity index (GPI)"
+11,SE.PRE.ENRR.FE,"School enrollment, preprimary, female (% gross)"
+12,SE.PRE.ENRR.MA,"School enrollment, preprimary, male (% gross)"
+13,SE.PRM.CMPT.FE.ZS,"Primary completion rate, female (% of relevant age group)"
+14,SE.PRM.CMPT.MA.ZS,"Primary completion rate, male (% of relevant age group)"
+15,SE.PRM.CUAT.FE.ZS,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)"
+16,SE.PRM.CUAT.MA.ZS,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)"
+17,SE.PRM.CUAT.ZS,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)"
+18,SE.PRM.ENRL.FE.ZS,"Primary education, pupils (% female)"
+19,SE.PRM.ENRR.FE,"School enrollment, primary, female (% gross)"
+20,SE.PRM.ENRR.MA,"School enrollment, primary, male (% gross)"
+21,SE.PRM.GINT.FE.ZS,"Gross intake ratio in first grade of primary education, female (% of relevant age group)"
+22,SE.PRM.GINT.MA.ZS,"Gross intake ratio in first grade of primary education, male (% of relevant age group)"
+23,SE.PRM.NENR.FE,"School enrollment, primary, female (% net)"
+24,SE.PRM.NENR.MA,"School enrollment, primary, male (% net)"
+25,SE.PRM.NINT.FE.ZS,"Net intake rate in grade 1, female (% of official school-age population)"
+26,SE.PRM.NINT.MA.ZS,"Net intake rate in grade 1, male (% of official school-age population)"
+27,SE.PRM.PRS5.FE.ZS,"Persistence to grade 5, female (% of cohort)"
+28,SE.PRM.PRS5.MA.ZS,"Persistence to grade 5, male (% of cohort)"
+29,SE.PRM.PRSL.FE.ZS,"Persistence to last grade of primary, female (% of cohort)"
+30,SE.PRM.PRSL.MA.ZS,"Persistence to last grade of primary, male (% of cohort)"
+31,SE.PRM.REPT.FE.ZS,"Repeaters, primary, female (% of female enrollment)"
+32,SE.PRM.REPT.MA.ZS,"Repeaters, primary, male (% of male enrollment)"
+33,SE.PRM.TCHR.FE.ZS,"Primary education, teachers (% female)"
+34,SE.PRM.TENR.FE,"Adjusted net enrollment rate, primary, female (% of primary school age children)"
+35,SE.PRM.TENR.MA,"Adjusted net enrollment rate, primary, male (% of primary school age children)"
+36,SE.PRM.UNER.FE,"Children out of school, primary, female"
+37,SE.PRM.UNER.MA,"Children out of school, primary, male"
+38,SE.SEC.CUAT.LO.FE.ZS,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)"
+39,SE.SEC.CUAT.LO.MA.ZS,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+40,SE.SEC.CUAT.LO.ZS,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)"
+41,SE.SEC.CUAT.PO.FE.ZS,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)"
+42,SE.SEC.CUAT.PO.MA.ZS,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)"
+43,SE.SEC.CUAT.PO.ZS,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)"
+44,SE.SEC.CUAT.UP.FE.ZS,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)"
+45,SE.SEC.CUAT.UP.MA.ZS,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)"
+46,SE.SEC.CUAT.UP.ZS,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+47,SE.SEC.ENRL.FE.ZS,"Secondary education, pupils (% female)"
+48,SE.SEC.ENRL.GC.FE.ZS,"Secondary education, general pupils (% female)"
+49,SE.SEC.ENRL.VO.FE.ZS,"Secondary education, vocational pupils (% female)"
+50,SE.SEC.ENRR.FE,"School enrollment, secondary, female (% gross)"
+51,SE.SEC.ENRR.MA,"School enrollment, secondary, male (% gross)"
+52,SE.SEC.NENR.FE,"School enrollment, secondary, female (% net)"
+53,SE.SEC.NENR.MA,"School enrollment, secondary, male (% net)"
+54,SE.SEC.PROG.FE.ZS,"Progression to secondary school, female (%)"
+55,SE.SEC.PROG.MA.ZS,"Progression to secondary school, male (%)"
+56,SE.SEC.TCHR.FE.ZS,"Secondary education, teachers (% female)"
+57,SE.TER.CUAT.BA.FE.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)"
+58,SE.TER.CUAT.BA.MA.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)"
+59,SE.TER.CUAT.BA.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)"
+60,SE.TER.CUAT.DO.FE.ZS,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)"
+61,SE.TER.CUAT.DO.MA.ZS,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)"
+62,SE.TER.CUAT.DO.ZS,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)"
+63,SE.TER.CUAT.MS.FE.ZS,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)"
+64,SE.TER.CUAT.MS.MA.ZS,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)"
+65,SE.TER.CUAT.MS.ZS,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)"
+66,SE.TER.CUAT.ST.FE.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)"
+67,SE.TER.CUAT.ST.MA.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)"
+68,SE.TER.CUAT.ST.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)"
+69,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)"
+70,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)"
+71,SG.DMK.ALLD.FN.ZS,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)"
+72,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%)
+73,SG.LAW.INDX,Women Business and the Law Index Score (scale 1-100)
+74,SG.VAW.ARGU.ZS,Women who believe a husband is justified in beating his wife when she argues with him (%)
+75,SG.VAW.BURN.ZS,Women who believe a husband is justified in beating his wife when she burns the food (%)
+76,SG.VAW.GOES.ZS,Women who believe a husband is justified in beating his wife when she goes out without telling him (%)
+77,SG.VAW.NEGL.ZS,Women who believe a husband is justified in beating his wife when she neglects the children (%)
+78,SG.VAW.REAS.ZS,Women who believe a husband is justified in beating his wife (any of five reasons) (%)
+79,SG.VAW.REFU.ZS,Women who believe a husband is justified in beating his wife when she refuses sex with him (%)
+80,SH.CON.1524.FE.ZS,"Condom use, population ages 15-24, female (% of females ages 15-24)"
+81,SH.DYN.AIDS.FE.ZS,Women's share of population ages 15+ living with HIV (%)
+82,SH.HIV.1524.FE.ZS,"Prevalence of HIV, female (% ages 15-24)"
+83,SH.HIV.1524.MA.ZS,"Prevalence of HIV, male (% ages 15-24)"
+84,SH.MMR.RISK,Lifetime risk of maternal death (1 in: rate varies by country)
+85,SH.MMR.RISK.ZS,Lifetime risk of maternal death (%)
+86,SH.PRV.SMOK.FE,"Prevalence of current tobacco use, females (% of female adults)"
+87,SH.PRV.SMOK.MA,"Prevalence of current tobacco use, males (% of male adults)"
+88,SH.STA.ANVC.ZS,Pregnant women receiving prenatal care (%)
+89,SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total)
+90,SH.STA.MALN.FE.ZS,"Prevalence of underweight, weight for age, female (% of children under 5)"
+91,SH.STA.MALN.MA.ZS,"Prevalence of underweight, weight for age, male (% of children under 5)"
+92,SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+93,SH.STA.MMRT.NE,"Maternal mortality ratio (national estimate, per 100,000 live births)"
+94,SL.AGR.0714.FE.ZS,"Child employment in agriculture, female (% of female economically active children ages 7-14)"
+95,SL.AGR.0714.MA.ZS,"Child employment in agriculture, male (% of male economically active children ages 7-14)"
+96,SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+97,SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+98,SL.EMP.1524.SP.FE.ZS,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)"
+99,SL.EMP.1524.SP.MA.ZS,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+100,SL.EMP.MPYR.FE.ZS,"Employers, female (% of female employment) (modeled ILO estimate)"
+101,SL.EMP.MPYR.MA.ZS,"Employers, male (% of male employment) (modeled ILO estimate)"
+102,SL.EMP.SELF.FE.ZS,"Self-employed, female (% of female employment) (modeled ILO estimate)"
+103,SL.EMP.SELF.MA.ZS,"Self-employed, male (% of male employment) (modeled ILO estimate)"
+104,SL.EMP.TOTL.SP.FE.ZS,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)"
+105,SL.EMP.TOTL.SP.MA.ZS,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)"
+106,SL.EMP.VULN.FE.ZS,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
+107,SL.EMP.VULN.MA.ZS,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
+108,SL.EMP.WORK.FE.ZS,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
+109,SL.EMP.WORK.MA.ZS,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
+110,SL.FAM.WORK.FE.ZS,"Contributing family workers, female (% of female employment) (modeled ILO estimate)"
+111,SL.FAM.WORK.MA.ZS,"Contributing family workers, male (% of male employment) (modeled ILO estimate)"
+112,SL.IND.EMPL.FE.ZS,"Employment in industry, female (% of female employment) (modeled ILO estimate)"
+113,SL.IND.EMPL.MA.ZS,"Employment in industry, male (% of male employment) (modeled ILO estimate)"
+114,SL.MNF.0714.FE.ZS,"Child employment in manufacturing, female (% of female economically active children ages 7-14)"
+115,SL.MNF.0714.MA.ZS,"Child employment in manufacturing, male (% of male economically active children ages 7-14)"
+116,SL.SRV.0714.FE.ZS,"Child employment in services, female (% of female economically active children ages 7-14)"
+117,SL.SRV.0714.MA.ZS,"Child employment in services, male (% of male economically active children ages 7-14)"
+118,SL.SRV.EMPL.FE.ZS,"Employment in services, female (% of female employment) (modeled ILO estimate)"
+119,SL.SRV.EMPL.MA.ZS,"Employment in services, male (% of male employment) (modeled ILO estimate)"
+120,SL.TLF.0714.FE.ZS,"Children in employment, female (% of female children ages 7-14)"
+121,SL.TLF.0714.MA.ZS,"Children in employment, male (% of male children ages 7-14)"
+122,SL.TLF.0714.SW.FE.ZS,"Children in employment, study and work, female (% of female children in employment, ages 7-14)"
+123,SL.TLF.0714.SW.MA.ZS,"Children in employment, study and work, male (% of male children in employment, ages 7-14)"
+124,SL.TLF.0714.WK.FE.ZS,"Children in employment, work only, female (% of female children in employment, ages 7-14)"
+125,SL.TLF.0714.WK.MA.ZS,"Children in employment, work only, male (% of male children in employment, ages 7-14)"
+126,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+127,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+128,SL.TLF.PART.FE.ZS,"Part time employment, female (% of total female employment)"
+129,SL.TLF.PART.MA.ZS,"Part time employment, male (% of total male employment)"
+130,SL.TLF.TOTL.FE.ZS,"Labor force, female (% of total labor force)"
+131,SL.UEM.1524.FE.ZS,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
+132,SL.UEM.1524.MA.ZS,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+133,SL.UEM.TOTL.FE.ZS,"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+134,SL.UEM.TOTL.MA.ZS,"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+135,SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+136,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)"
+137,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)"
+138,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)"
+139,SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)"
+140,SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)"
+141,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)"
+142,SP.DYN.TO65.FE.ZS,"Survival to age 65, female (% of cohort)"
+143,SP.DYN.TO65.MA.ZS,"Survival to age 65, male (% of cohort)"
+144,SP.DYN.WFRT,Wanted fertility rate (births per woman)
+145,SP.HOU.FEMA.ZS,Female headed households (% of households with a female head)
+146,SP.M15.2024.FE.ZS,Women who were first married by age 15 (% of women ages 20-24)
+147,SP.M18.2024.FE.ZS,Women who were first married by age 18 (% of women ages 20-24)
+148,SP.MTR.1519.ZS,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+149,SE.SCH.LIFE.FE,"School life expectancy, primary to tertiary, female (years)"
+150,SE.SCH.LIFE.MA,"School life expectancy, primary to tertiary, male (years)"
+151,SG.ABS.PENB,There are periods of absence due to childcare accounted for in pension benefits (1=yes; 0=no)
+152,SG.AGE.FUPN.EQ,The age at which men and women can retire with full pension benefits is the same (1=yes; 0=no)
+153,SG.AGE.MRET.EQ,The mandatory retirement age for men and women is the same (1=yes; 0=no)
+154,SG.AGE.PAPN.EQ,The age at which men and women can retire with partial pension benefits is the same (1=yes; 0=no)
+155,SG.AGE.RTRE.FL.FE,"Retirement age with full benefits, female"
+156,SG.AGE.RTRE.FL.MA,"Retirement age with full benefits, male"
+157,SG.APL.PSPT.EQ,A woman can apply for a passport in the same way as a man (1=yes; 0=no)
+158,SG.BUS.REGT.EQ,A woman can register a business in the same way as a man (1=yes; 0=no)
+159,SG.CNT.SIGN.EQ,A woman can sign a contract in the same way as a man (1=yes; 0=no)
+160,SG.COK.CHCO.ZS,Main cooking fuel: charcoal (% of households)
+161,SG.COK.CROP.ZS,Main cooking fuel: agricultural crop (% of households)
+162,SG.COK.ELEC.ZS,Main cooking fuel: electricity  (% of households)
+163,SG.COK.HOUS.ZS,Location of cooking: inside the house (% of households)
+164,SG.COK.LPGN.ZS,Main cooking fuel: LPG/natural gas/biogas (% of households)
+165,SG.COK.OTHR.ZS,Location of cooking: other places (% of households)
+166,SG.COK.OUTD.ZS,Location of cooking: outdoors (% of households)
+167,SG.COK.SBLD.ZS,Location of cooking: separate building (% of households)
+168,SG.COK.STRW.ZS,Main cooking fuel: straw/shrubs/grass (% of households)
+169,SG.COK.WOOD.ZS,Main cooking fuel: wood (% of households)
+170,SG.CTR.TRVL.EQ,A woman can travel outside the country in the same way as a man (1=yes; 0=no)
+171,SG.DMK.DPCH.FN.ZS,Women participating in making daily purchase decisions (% of women age 15-49)
+172,SG.DMK.FOOD.FN.ZS,Women participating in decision of what food to cook daily (% of women age 15-49)
+173,SG.DMK.HLTH.FN.ZS,Women participating in own health care decisions (% of women age 15-49)
+174,SG.DMK.HLTH.HB.ZS,Decision maker about a woman's own health care: mainly husband (% of women age 15-49)
+175,SG.DMK.HLTH.OT.ZS,Decision maker about a woman's own health care: other (% of women age 15-49)
+176,SG.DMK.HLTH.SE.ZS,Decision maker about a woman's own health care: someone else (% of women age 15-49)
+177,SG.DMK.HLTH.WF.ZS,Decision maker about a woman's own health care: mainly wife (% of women age 15-49)
+178,SG.DMK.HLTH.WH.ZS,Decision maker about a woman's own health care: wife and husband jointly (% of women age 15-49)
+179,SG.DMK.NONE.FN.ZS,"Women participating in none of the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)"
+180,SG.DMK.PRCH.FN.ZS,Women participating in making major household purchase decisions (% of women age 15-49)
+181,SG.DMK.PRCH.HB.ZS,Decision maker about major household purchases: mainly husband (% of women age 15-49)
+182,SG.DMK.PRCH.OT.ZS,Decision maker about major household purchases: other (% of women age 15-49)
+183,SG.DMK.PRCH.SE.ZS,Decision maker about major household purchases: someone else (% of women age 15-49)
+184,SG.DMK.PRCH.WF.ZS,Decision maker about major household purchases: mainly wife (% of women age 15-49)
+185,SG.DMK.PRCH.WH.ZS,Decision maker about major household purchases: wife and husband jointly (% of women age 15-49)
+186,SG.DMK.VISI.FN.ZS,"Women participating in decision of visits to family, relatives, friends (% of women age 15-49)"
+187,SG.DMK.VISI.HB.ZS,Decision maker about a woman's visits to her family or relatives: mainly husband (% of women age 15-49)
+188,SG.DMK.VISI.OT.ZS,Decision maker about a woman's visits to her family or relatives: other (% of women age 15-49)
+189,SG.DMK.VISI.SE.ZS,Decision maker about a woman's visits to her family or relatives: someone else (% of women age 15-49)
+190,SG.DMK.VISI.WF.ZS,Decision maker about a woman's visits to her family or relatives: mainly wife (% of women age 15-49)
+191,SG.DMK.VISI.WH.ZS,Decision maker about Visits to her family or relatives: wife and husband jointly (% of women age 15-49)
+192,SG.DML.PRGW,Dismissal of pregnant workers is prohibited (1=yes; 0=no)
+193,SG.DNG.WORK.DN.EQ,A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no)
+194,SG.GEN.MNST.ZS,Proportion of women in ministerial level positions (%)
+195,SG.GEN.TECH.ZS,Female professional and technical workers (% of total)
+196,SG.GET.JOBS.EQ,A woman can get a job in the same way as a man (1=yes; 0=no)
+197,SG.H2O.PRMS.HH.ZS,Households with water on the premises (%)
+198,SG.H2O.TL30.HH.ZS,Households with water less than 30 minutes away round trip (%)
+199,SG.H2O.TM30.HH.ZS,Households with water 30 minutes or longer away round trip (%)
+200,SG.HLD.HEAD.EQ,A woman can be head of household in the same way as a man (1=yes; 0=no)
+201,SG.HME.TRVL.EQ,A woman can travel outside her home in the same way as a man (1=yes; 0=no)
+202,SG.IHT.ASST.EQ,Male and female surviving spouses have equal rights to inherit assets (1=yes; 0=no)
+203,SG.IHT.ASST.PT.EQ,Sons and daughters have equal rights to inherit assets from their parents (1=yes; 0=no)
+204,SG.IND.WORK.EQ,A woman can work in an industrial job in the same way as a man (1=yes; 0=no)
+205,SG.LAW.ASST.AR,The law grants spouses equal administrative authority over assets during marriage (1=yes; 0=no)
+206,SG.LAW.CRDD.GR,The law prohibits discrimination in access to credit based on gender (1=yes; 0=no)
+207,SG.LAW.EQRM.WK,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)
+208,SG.LAW.NMCN,The law provides for the valuation of nonmonetary contributions (1=yes; 0=no)
+209,SG.LAW.NODC.HR,The law prohibits discrimination in employment based on gender (1=yes; 0=no)
+210,SG.LAW.OBHB.MR.NO,There is no legal provision that requires a married woman to obey her husband (1=yes; 0=no)
+211,SG.LEG.DVAW,There is legislation specifically addressing domestic violence (1=yes; 0=no)
+212,SG.LEG.SXHR.EM,There is legislation on sexual harassment in employment (1=yes; 0=no)
+213,SG.LOC.LIVE.EQ,A woman can choose where to live in the same way as a man (1=yes; 0=no)
+214,SG.NGT.WORK.EQ,A woman can work at night in the same way as a man (1=yes; 0=no)
+215,SG.OBT.DVRC.EQ,A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no)
+216,SG.OPN.BANK.EQ,A woman can open a bank account in the same way as a man (1=yes; 0=no)
+217,SG.OWN.PRRT.IM,Men and women have equal ownership rights to immovable property (1=yes; 0=no)
+218,SG.PEN.SXHR.EM,Criminal penalties or civil remedies exist for sexual harassment in employment (1=yes; 0=no)
+219,SG.POP.MIGR.FE.ZS,Female migrants (% of international migrant stock)
+220,SG.REG.NLID.FE.ZS,Women with a national identity card or equivalent foundational identity document (% of women ages 15+)
+221,SG.REG.NLID.MA.ZS,Men with a national identity card or equivalent foundational identity document (% of men ages 15+)
+222,SG.REM.RIGT.EQ,A woman has the same rights to remarry as a man (1=yes; 0=no)
+223,SG.RSX.BRTH.ZS,Women who believe a wife is justified refusing sex with her husband if she has recently given birth (%)
+224,SG.RSX.NORS.ZS,Women who believe a wife is justified refusing sex with her husband for none of the reasons (%)
+225,SG.RSX.REAS.ZS,Women who believe a wife is justified refusing sex with her husband for all of the reasons (%)
+226,SG.RSX.SXOT.ZS,Women who believe a wife is justified refusing sex with her husband if she knows he has sex with other women (%)
+227,SG.RSX.TIRD.ZS,Women who believe a wife is justified refusing sex with her husband if she is tired or not in the mood (%)
+228,SG.RSX.TMDS.ZS,Women who believe a wife is justified refusing sex with her husband if she knows he has sexually transmitted disease (%)
+229,SH.HIV.ARTC.FE.ZS,"Access to anti-retroviral drugs, female (%)"
+230,SH.HIV.ARTC.MA.ZS,"Access to anti-retroviral drugs, male (%)"
+231,SH.HIV.INCD.FE.P3,"Incidence of HIV, ages 15-49, female (per 1,000 uninfected female population ages 15-49)"
+232,SH.HIV.INCD.MA.P3,"Incidence of HIV, ages 15-49, male (per 1,000 uninfected male population ages 15-49)"
+233,SH.HIV.INCD.YG.FE.P3,"Incidence of HIV, ages 15-24, female (per 1,000 uninfected female population ages 15-24)"
+234,SH.HIV.INCD.YG.MA.P3,"Incidence of HIV, ages 15-24, male (per 1,000 uninfected male population ages 15-24)"
+235,SH.MMR.LEVE,Length of paid maternity leave (calendar days)
+236,SH.MMR.LEVE.AL,Paid leave of at least 14 weeks available to mothers (1=yes; 0=no)
+237,SH.MMR.LEVE.GT,The government administers 100% of maternity leave benefits (1=yes; 0=no)
+238,SH.PAR.LEVE,Length of paid shared parental leave (calendar days)
+239,SH.PAR.LEVE.AL,There is paid parental leave (1=yes; 0=no)
+240,SH.PAR.LEVE.FE,Length of paid parental leave for mother (calendar days)
+241,SH.PAR.LEVE.MA,Length of paid parental leave for father (calendar days)
+242,SH.PTR.LEVE,Length of paid paternity leave (calendar days)
+243,SH.PTR.LEVE.AL,Paid leave is available to fathers (1=yes; 0=no)
+244,SH.STA.OB18.FE.ZS,"Prevalence of obesity, female (% of female population ages 18+)"
+245,SH.STA.OB18.MA.ZS,"Prevalence of obesity, male (% of male population ages 18+)"
+246,SL.EMP.UNDR.FE.ZS,"Time-related underemployment, female (% of employment)"
+247,SL.EMP.UNDR.MA.ZS,"Time-related underemployment, male (% of employment)"
+248,SL.TLF.TOTL.FE.IN,"Labor force, female"
+249,SL.UEM.1524.FM.NE.ZS,Ratio of female to male youth unemployment rate (%) (national estimate)
+250,SL.UEM.1524.FM.ZS,Ratio of female to male youth unemployment rate (% ages 15-24) (modeled ILO estimate)
+251,SP.DYN.LE60.FE.IN,"Life expectancy at age 60, female (years)"
+252,SP.DYN.LE60.MA.IN,"Life expectancy at age 60, male (years)"
+253,SP.DYN.SMAM.FE,"Age at first marriage, female"
+254,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)"
+255,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)"
+256,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)"
+257,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)"
+258,SH.FPL.SATI.ZS,Demand for family planning satisfied by any methods (% of married women with demand for family planning)
+259,SH.MMR.WAGE.ZS,Maternal leave benefits (% of wages paid in covered period)
+260,SP.DYN.SMAM.MA,"Age at first marriage, male"
+261,SP.POP.AG00.FE.IN,"Age population, age 00, female, interpolated"
+262,SP.POP.AG00.MA.IN,"Age population, age 00, male, interpolated"
+263,SP.POP.AG01.FE.IN,"Age population, age 01, female, interpolated"
+264,SP.POP.AG01.MA.IN,"Age population, age 01, male, interpolated"
+265,SP.POP.AG02.FE.IN,"Age population, age 02, female, interpolated"
+266,SP.POP.AG02.MA.IN,"Age population, age 02, male, interpolated"
+267,SP.POP.AG03.FE.IN,"Age population, age 03, female, interpolated"
+268,SP.POP.AG03.MA.IN,"Age population, age 03, male, interpolated"
+269,SP.POP.AG04.FE.IN,"Age population, age 04, female, interpolated"
+270,SP.POP.AG04.MA.IN,"Age population, age 04, male, interpolated"
+271,SP.POP.AG05.FE.IN,"Age population, age 05, female, interpolated"
+272,SP.POP.AG05.MA.IN,"Age population, age 05, male, interpolated"
+273,SL.EMP.OWAC.FE.ZS,"Own-account workers, female (% of female employment) (modeled ILO estimate)"
+274,SL.EMP.OWAC.MA.ZS,"Own-account workers, male (% of male employment) (modeled ILO estimate)"
