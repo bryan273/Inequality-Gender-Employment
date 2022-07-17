@@ -24,7 +24,6 @@ Technologies :
 * Python. a high-level programming language that supported by the availability of many open source libraries that help in data processing, analysis, recommendation systems, and visualization. Libraries that the writers used:
   * Pandas
   * Numpy
-  * Seaborn
   * Textblob
   * NLTK
   * Scikit-learn 
